@@ -1,5 +1,5 @@
 # Logistic-Regression-and-Preprocessing_2
-Logistic regression in pure python, preprocessing of dataset breast-cancer.csv
+Logistic regression in pure python and in pytorch, preprocessing of dataset breast-cancer.csv
 
 Remarks:
 
